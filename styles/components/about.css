@@ -34,7 +34,6 @@
 
 .about__ul-container{
   display: flex;
-  
 }
 
 .about__ul{
@@ -54,6 +53,16 @@
 .about__list::before{
   content: '';
   margin-left: 0.5em;
+}
+
+/* .about__img-wrapper{
+  margin: auto auto;
+  border: 1px solid red;
+
+} */
+
+.about__img{
+  width: 28.6875rem;
 }
 
 
@@ -87,6 +96,16 @@
   .about__list{
     font-size: var(--size-base);
   }
+
+  .about__img-wrapper{
+    margin: 0 auto;
+    border: 1px solid red;
+
+  }
+
+  /* .about__img{
+    width: 20.6875rem;
+  } */
 
 }
 
@@ -161,6 +180,10 @@
   
   .about__list{
     font-size: var(--size-xl);
+  }
+
+  .about__img{
+    width: 30.75rem;
   }
 
 }

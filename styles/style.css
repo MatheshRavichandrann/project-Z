@@ -29,6 +29,7 @@
 }
 
 *{
+  /* border: 1px solid red; */
   margin: 0;
   line-height: calc(1em + 0.5rem);
 }

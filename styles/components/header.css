@@ -4,6 +4,9 @@
   align-items: center;
   padding-top: 2rem;
   padding-bottom: 2rem; 
+  /* position: fixed;
+  margin-bottom: 2rem;
+  background-color: var(--clr-dark); */
 }
 
 .header__menu{
