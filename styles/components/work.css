@@ -22,6 +22,7 @@
 
 .work__img-wrapper{
   position: relative;
+  border: 1px solid red;
 }
 
 .work__img-wrapper::after{
