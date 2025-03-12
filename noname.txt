@@ -75,30 +75,28 @@
         <img  class="hero__img" src="/cat.jpeg" alt="Profile Picture">
         <h2 class="hero__subtitle">HI, I'm Mathesh</h2>
         <h1 class="hero__title">FULLSTACK <br> WEB DEVELOPER.</h1>
-        <p class="hero__description">A passionate <strong> Backend / Fullstack </strong>web developer and <strong> UI/UX </strong> enthusiast specialized in building stunning pixel-perfect interactive websites/applications.</p>
-        <a class="hero__btn btn" href="#contact">Reach out</a>
+        <p class="hero__description">A passionate <strong> Frontend / Fullstack-Jamstack </strong>web developer and <strong> UI/UX </strong> enthusiast specialized in building stunning pixel-perfect interactive websites/applications.</p>
+        <a class="hero__btn btn" href="#">Reach out</a>
       </section>
 
       <section id="about" class="about container section">
         <div class="about__content">
           <h2 class="about__title">About</h2>
-          <p class="about__description">Hello there! I'm Madez, a <strong>Fullstack web developer </strong> based near chennai. I wake up in the morning, grab a cup of timmies coffee, open up my laptop and build things that live on the web all day, everyday.</p>
+          <p class="about__description">Hello there! I'm Madez, a <strong> Frontend / Fullstack-Jamstack </strong> web developer based near Montreal. I wake up in the morning, grab a cup of timmies coffee, open up my laptop and build things that live on the web all day, everyday.</p>
           <p class="about__description">People who know me say I'm obsessed, that's fair, I am very driven and love learning new things.</p>
           <p class="about__description">I recently created a YouTube channel called <a>Slaying The Dragon</a> where I upload videos on front-end web development topics.</p>
           <hr class="about__hr">
           <h3 class="about__subtitle">Technologies</h3>
           <div class="about__ul-container">
             <ul class="about__ul">
-              <li class="about__list">Java</li>
-              <li class="about__list">Spring Boot</li>
-              <li class="about__list">SQL</li>
-              <li class="about__list">Hibernate</li>
+              <li class="about__list">JavaScript (ES6+)</li>
+              <li class="about__list">CSS</li>
+              <li class="about__list">HTML</li>
             </ul>
             <ul class="about__ul">
-              <li class="about__list">JavaScript</li> 
               <li class="about__list">ReactJS</li>
-              <li class="about__list">HTML</li>
-              <li class="about__list">CSS</li>
+              <li class="about__list">NextJS</li>
+              <li class="about__list">TailwindCSS</li>
             </ul>
           </div>
         </div>
@@ -114,7 +112,7 @@
       <section id="featured" class="featured container section">
         <h3 class="featured__subtitle">Featured project</h3>
         <div class="featured__wrapper">
-          <h2 class="featured__title">Yum zoom</h2>
+          <h2 class="featured__title">Slaying the dragon</h2>
           <a class="featured__link" href="#">
             <svg
             xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
@@ -130,18 +128,18 @@
           <div>
             <h3 class="featured__lable">Tech Stacks</h3>
             <ul class="featured__tech-stack">
-              <li class="featured__info">SpringBoot</li>
+              <li class="featured__info">TailwindCSS</li>
               <li class="featured__info">ReactJS</li>
-              <li class="featured__info">PostgreSQL</li>
-              <li class="featured__info">REST API</li>
-              <li class="featured__info">Hibernate</li>
-              <li class="featured__info">WebSocket</li>
+              <li class="featured__info">React-hook-form</li>
+              <li class="featured__info">NextJs</li>
+              <li class="featured__info">Axois</li>
+              <li class="featured__info">SuperBase</li>
               <li class="featured__info">Stripe</li>
             </ul>
           </div>
           <div>
             <h3 class="featured__lable">Project type</h3>
-            <p class="featured__info">FullStack web application</p>
+            <p class="featured__info">FullStack-Jamstack</p>
           </div>
           <div>
             <h3 class="featured__lable">Timeline</h3>
